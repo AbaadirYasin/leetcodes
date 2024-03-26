@@ -1,0 +1,4 @@
+SELECT DISTINCT V1.author_id AS author_id
+FROM Views V1 
+WHERE V1.author_id = V1.author_id
+ORDER BY id; 
